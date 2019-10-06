@@ -21,7 +21,8 @@
 
 - [Forum - AMX](https://proforums.harman.com/amx)
 - [Reddit - r/amx](https://www.reddit.com/r/amx/) - Pretty Dead
-- [Reddit - r/netlinx](https://www.reddit.com/r/netlinx/)- Even Deader!
+- [Reddit - r/netlinx](https://www.reddit.com/r/netlinx/) - Even Deader!
+- [Slack - amx-programmers](https://amx-programmers.slack.com) - [Join](https://join.slack.com/t/amx-programmers/shared_invite/MjE2NTY1NzAxMDI5LTE1MDA3OTI1NTAtM2M1YjcwNDQwNg)
 
 ### Modules & Includes
 
