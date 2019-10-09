@@ -4,6 +4,7 @@
 
 - [Resources](#resources)
   - [Official](#official)
+  - [Reference](#reference)
   - [Discussion](#discussion)
   - [Modules & Includes](#modules--includes)
   - [Dev Tools](#dev-tools)
@@ -16,6 +17,11 @@
 - [Netlinx Studio](https://www.amx.com/en/products/netlinx-studio) [[Download](https://www.amx.com/en/softwares/netlinx-studio-4-v4-4-1626)]
 - [Netlinx Diagnostics](https://www.amx.com/en/products/netlinx-diagnostics) [[Download](https://www.amx.com/en/softwares/netlinx-diagnostics-v3-0-64)]
 - [TPDesign5](https://www.amx.com/en/products/tpdesign5) [[Download](https://www.amx.com/en/softwares/tpdesign5-v1-5-111)]
+- [Coding Documentation](https://www.amx.com/en/support_downloads/download_types/programmingguide)
+
+### Reference
+
+- [Latest Netlinx Reference](https://adn.harmanpro.com/site_elements/resources/2147_1522087829/NX-Series.WebConsole-ProgrammingGuide_original.pdf) - Last Updated 27.09.2017
 
 ### Discussion
 
